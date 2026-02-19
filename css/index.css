@@ -16,13 +16,13 @@
         }
 
         .row {
-            border: 1.5px solid var(--dark-blue);
-            
+            border: 2.5px solid var(--dark-blue);
+            box-sizing: border-box;
         }
 
         [class^="col-"] {
             border: 1px solid var(--light-green);
-
+            box-sizing: border-box;
         }
         .apples {
             width: 100%;
