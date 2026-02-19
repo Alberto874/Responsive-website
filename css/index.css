@@ -24,3 +24,6 @@
             border: 1px solid var(--light-green);
 
         }
+        .apples {
+            width: 100%;
+        }
